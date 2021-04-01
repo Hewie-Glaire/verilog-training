@@ -1,0 +1,4 @@
+// this is a simple test which creats a simple wire, you must handle how to use  the command 'assign'
+module a (input in, output out);
+assign out=in;
+endmodule
